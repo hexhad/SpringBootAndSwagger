@@ -1,0 +1,1 @@
+insert into cats values(101,'ipsum');
