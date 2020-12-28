@@ -1,2 +1,2 @@
 # SpringBootAndSwagger
-SpringBoot API + Swagger
+SpringBoot API + SwaggerUI
